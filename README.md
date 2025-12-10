@@ -8,3 +8,5 @@ Untuk materi 17, tugas dikerjakan menggunakan format Page Object Model (POM). St
 3. E2E → POM → LoginPOM.cy.js (Menyimpan script automation utama yang menjalankan semua test case menggunakan format POM)
 
 Untuk Quiz 3, jawabannya berada dalam folder E2E -> Login.cy.js yang berisi test case login
+
+Untuk materi 18, jawaban ada pada folder E2E → APITestinAutomation → testAPI.cy.js 
