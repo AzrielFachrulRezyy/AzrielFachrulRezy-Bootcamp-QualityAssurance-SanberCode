@@ -1,5 +1,5 @@
-const loginPage = require("/cypress/support/pageObjects/LoginPage");
-const data = require("/cypress/fixtures/loginData");
+import loginPage from "/cypress/support/pageObjects/LoginPage";
+import data from "/cypress/fixtures/loginData";
 
 describe("Azriel FachrulRezy - Tugas Materi 17 - Menggunakan Format POM", () => {
   beforeEach(() => {
